@@ -148,5 +148,6 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",                 # desarrollo
-    "https://crud3-32x0.onrender.com",     
+    "https://crud3-32x0.onrender.com",
+    "https://frontend-dodo.onrender.com",     
 ]
